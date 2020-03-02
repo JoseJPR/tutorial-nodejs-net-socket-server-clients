@@ -13,11 +13,11 @@ With this Tutorial you can create a NodeJS Net Server and communicate with sever
 
 Execute a Net Server and two Clients and how the Server send random message to all Clients.
 
-TODO...
+[![Video](./assets/video-first-demo.jpg)](https://youtu.be/AQiL8hWZeEg)
 
 Execute a Net Server and two Clients and how a Client send random message via Server to others Clients.
 
-TODO...
+[![Video](./assets/video-second-demo.jpg)](https://youtu.be/Sfx0kYMzf78)
 
 ## ⛅️ Develop in the Cloud
 
