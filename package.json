@@ -1,0 +1,32 @@
+{
+  "name": "tutorial-nodejs-net-socket-server-clients",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "start:first-demo:server-emitter": "node ./src/first-demo/server-emitter.js",
+    "start:first-demo:client-receiver": "node ./src/first-demo/client-receiver.js",
+    "start:second-demo:server-dispatcher": "node ./src/second-demo/server-dispatcher.js",
+    "start:second-demo:client-emitter": "node ./src/second-demo/client-emitter.js",
+    "start:second-demo:client-receiver": "node ./src/second-demo/client-receiver.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoseJPR/tutorial-nodejs-net-socket-server-clients.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoseJPR/tutorial-nodejs-net-socket-server-clients/issues"
+  },
+  "homepage": "https://github.com/JoseJPR/tutorial-nodejs-net-socket-server-clients#readme",
+  "dependencies": {
+    "pino": "^5.16.0",
+    "pino-pretty": "^3.6.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.20.1"
+  }
+}
