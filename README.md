@@ -7,15 +7,19 @@
 
 ## 🔖 Description
 
+The net module provides an asynchronous network API for creating stream-based TCP or IPC servers (net.createServer()) and clients (net.createConnection()).
+
 With this Tutorial you can create a NodeJS Net Server and communicate with severals Clients via Socket.
+
+Official Documentation: [NodeJS | API Net](https://nodejs.org/api/net.html)
 
 ## 📹 Video Demo
 
-* Execute a Net Server and two Clients and how the Server send random message to all Clients.
+How to execute a Net Server and two Clients and how the Server send random message to all Clients.
 
 [![Video](./assets/youtube.svg)](https://youtu.be/AQiL8hWZeEg)
 
-* Execute a Net Server and two Clients and how a Client send random message via Server to others Clients.
+How to Execute a Net Server and two Clients and how a Client send random message via Server to others Clients.
 
 [![Video](./assets/youtube.svg)](https://youtu.be/Sfx0kYMzf78)
 
