@@ -1,15 +1,30 @@
-# Tutorial NodeJS Net Socket Server and Clients
+<p align="center">
+  <img src="./assets/banner.jpg" width="600" />
+</p>
 
-[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
-[![Twitter: JoseJ_PR](https://img.shields.io/twitter/url?color=1991DA&label=Twitter%20%40JoseJ_PR&logo=twitter&logoColor=FFFFFF&style=flat-square&url=https%3A%2F%2Ftwitter.com%2FJoseJ_PR)](https://twitter.com/JoseJ_PR)
+<h1 align="center">Tutorial Nodejs Net Socket Server and Clients</h1>
 
-![Banner](./assets/banner.jpg)
+<p align="center">With this tutorial you can create a Nodejs Application in order to create Net communication client-client and server-clients.</p>
+
+<p align="center">
+  <a title="MIT License" href="LICENSE.md">
+    <img src="https://img.shields.io/github/license/gridsome/gridsome.svg?style=flat-square&label=License&colorB=6cc24a">
+  </a>
+  <a title="Twitter: JoseJ_PR" href="https://twitter.com/JoseJ_PR">
+    <img src="https://img.shields.io/twitter/url?color=1991DA&label=Twitter%20%40JoseJ_PR&logo=twitter&logoColor=FFFFFF&style=flat-square&url=https%3A%2F%2Ftwitter.com%2FJoseJ_PR">
+  </a>  
+  <a title="Github: Sponsors" href="https://github.com/sponsors/JoseJPR">
+    <img src="https://img.shields.io/twitter/url?color=032f62&label=Github%20Sponsors%20%40JoseJPR&logo=github&logoColor=FFFFFF&style=flat-square&url=https%3A%2F%2Fgithub.com%2Fsponsors%2FJoseJPR">
+  </a>
+  <br />
+  <br />
+</p>
 
 ## 🔖 Description
 
 The net module provides an asynchronous network API for creating stream-based TCP or IPC servers (net.createServer()) and clients (net.createConnection()).
 
-With this Tutorial you can create a NodeJS Net Server and communicate with severals Clients via Socket.
+With this Tutorial you can create a Nodejs Net Server and communicate with severals Clients via Socket.
 
 Official Documentation: [NodeJS | API Net](https://nodejs.org/api/net.html)
 
@@ -41,14 +56,14 @@ List of methodologies and tools used in this project for compliance with Quality
 
 In order to work with this project, your local environment must have at least the following versions:
 
-* NodeJS Version: 13.xx
+* Nodejs Version: 13.xx
 * NPM Version: 6.12.0
 
 ## 📐 How to work with this project
 
 You have to do the following steps to be able to work with this project.
 
-### 1️⃣ Install NodeJS Dependencies
+### 1️⃣ Install Nodejs Dependencies
 To work with this project locally it is necessary to install the NPM dependencies.
 
 ```bash
