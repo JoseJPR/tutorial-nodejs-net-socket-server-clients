@@ -4,7 +4,7 @@
 
 <h1 align="center">Tutorial Nodejs Net Socket Server and Clients</h1>
 
-<p align="center">With this tutorial you can create a Nodejs Application in order to create Net communication client-client and server-clients.</p>
+<p align="center">With this tutorial you can create Net Communication client-client and server-clients with Nodejs.</p>
 
 <p align="center">
   <a title="MIT License" href="LICENSE.md">
